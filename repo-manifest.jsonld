@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prefect-helm/commit/84e22f664a3a6eb678842aabfa069a01ae42b0ea",
       "git:hexsha": "84e22f664a3a6eb678842aabfa069a01ae42b0ea",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2026.11.6211926"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2026.11.6211926",
+      "repolex:parsedAt": "2026-11-08T11:21:02.226451+00:00"
     },
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prefect-helm/commit/70db16e7df5cca3d52315e9fa56874318cb70fed",
